@@ -6,7 +6,7 @@
 
 ## Overview
 
-<b>Link to project: </b>Counter application was built using HTML, CSS, and Javascript.
+<b>Tech used: </b>Counter application was built using HTML, CSS, and Javascript.
 
 ## Key Features
 Two buttons:
