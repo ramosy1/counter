@@ -1,6 +1,6 @@
 # Javascript Counter App
 
-<img src="images/Javascript Counter App.png" alt="Counter app image" title="Javascript Counter App">
+<img src="./images/JS counter app.gif" alt="Counter app image" title="Javascript Counter App">
 
 <p><b>Link to project: </b><a href="https://ramosy1.github.io/counter/" rel="nofollow">Counter App</a></p>
 
