@@ -1,8 +1,12 @@
 # Javascript Counter App
+
 <img src="images/Javascript Counter App.png" alt="Counter app image" title="Javascript Counter App">
 
+<b>Link to project: </b><a href="https://ramosy1.github.io/counter/" rel="nofollow"></a>
+
 # Overview
-Counter application built with HTML, CSS, and Javascript.
+
+<b>Link to project: </b>Counter application was built using HTML, CSS, and Javascript.
 
 # Key Features
 Two buttons:
